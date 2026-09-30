@@ -60,6 +60,6 @@ This project uses a synthetic banking dataset created for learning and portfolio
 
 ## 📁 Project Files
 
-- `Banking_Performance_Dashboard.xlsx` — Excel dashboard and analysis
+- `banking-performance-dashboard.xlsx` — Excel dashboard and analysis
 - `dashboard.png` — Dashboard preview
 - `README.md` — Project documentation
